@@ -4,7 +4,8 @@ Logistic Regression model to predict heart disease from patient data.
 
 ## Dataset
 
-Heart Failure Prediction Dataset by fedesoriano (Kaggle)
+Heart Failure Prediction Dataset by fedesoriano (Kaggle):
+https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 
 918 patients, 11 features, target is `HeartDisease` (0/1).
 
